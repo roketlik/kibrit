@@ -1,0 +1,2 @@
+# kibrit
+mekanik  bir sistem
